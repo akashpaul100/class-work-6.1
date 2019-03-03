@@ -1,0 +1,59 @@
+body{
+	background-color: lightblue;
+}
+div{
+	width: 60%;
+	margin-right: auto;
+	margin-left: auto;
+}
+.logo{
+	background-color: red;
+	min-height: 100px;
+	font-size: 50px;
+	text-align: center;
+	color: yellow;
+
+}
+.navigation{
+	background-color: blue;
+	min-height: 50px;
+	font-size: 25px;
+	text-align: center;
+	color: yellow;
+}
+.header{
+	background-color: orange;
+	min-height: 200px;
+	font-size: 100px;
+	text-align:  center;
+	color: black;
+}
+.body{
+	overflow: hidden;
+
+}
+.sidebar{
+	background-color: blue;
+	min-height: 600px;
+	width:30%;
+	font-size: 30px;
+	color: yellow;
+	float: left;
+	text-align: center;
+}
+.bodyarea{
+	background-color: red;
+	min-height: 600px;
+	width: 60%;
+	font-size:30px;
+	color:yellow;
+	float: right;
+	text-align: center;
+}
+.footer{
+	background-color: orange;
+	min-height: 100px;
+	font-size: 50px;
+	color: black;
+	text-align: center;
+}
